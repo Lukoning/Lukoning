@@ -1,5 +1,7 @@
 I'm sorry, but as a corpse, I don't know what to write here yet :(
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukoning)
+
 <!--
 **Lukoning/Lukoning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
