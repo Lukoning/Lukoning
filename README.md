@@ -1,4 +1,5 @@
-I'm sorry, but as a corpse, I don't know what to write here yet :(
+I'm a student.
+As of the last update of this markdown, I was still a minor in China
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukoning&theme=transparent&hide_border=true&layout=donut-vertical)
 
