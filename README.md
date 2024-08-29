@@ -1,6 +1,6 @@
 I'm a student.
 
-As of the last update of this markdown, I was still a minor in China
+As of the last update of this README, I was still a juvenile in China
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukoning&theme=transparent&hide_border=true&layout=donut-vertical)
 
