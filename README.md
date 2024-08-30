@@ -21,7 +21,7 @@ As of the last update of this README, I was still a juvenile (age<18)
 
   \* And my GitHub name comes from the MC name of it
 - TRAFFIC! Do you know there are countless public transport combinations to get home?
-- PHOTO! These‘re photos took by me... \[UPLOADING\]
+- PHOTO! These‘re photos took by me... \[Oh no, it said "The file is too large and cannot be uploaded."\]
 - Technology! But sometimes I don't understand how it work...
 - Create(imagine) lots of fun and playful anything
 
