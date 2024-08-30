@@ -2,10 +2,10 @@ I'm a student.
 
 As of the last update of this README, I was still a juvenile in China
 
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=Lukoning&show_icons=true&theme=dark&border_radius=12&bg_color=0000&border_color=444&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=Lukoning&show_icons=true&theme=dark&border_radius=12&bg_color=0000&border_color=FFF2&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs?username=Lukoning&show_icons=true&theme=default&border_radius=12&bg_color=0000&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=Lukoning&show_icons=true&theme=dark&border_radius=12&bg_color=0000&border_color=444#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=Lukoning&show_icons=true&theme=dark&border_radius=12&bg_color=0000&border_color=FFF2#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=Lukoning&show_icons=true&theme=default&border_radius=12&bg_color=0000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!--
