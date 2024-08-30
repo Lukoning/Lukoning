@@ -8,11 +8,11 @@
 
 ### 💥 Bio
 
-广西老表之人类幼崽🍼还没熟呢别催了
+I'm a student from Nanning, the capital of G.Z.A.R
 
-I'm a student from Guangxi Zhuang Autonomous Region
+If you don't know where is Nanning, Google is good for you :)
 
-As of the last update of this README, I was still a juvenile in China. (age<18)
+As of the last update of this README, I was still a juvenile (age<18)
 
 ### ❤️ Hobby
 
@@ -21,6 +21,7 @@ As of the last update of this README, I was still a juvenile in China. (age<18)
 
   \* And my GitHub name comes from the MC name of it
 - TRAFFIC! Do you know there are countless public transport combinations to get home?
+- PHOTO! These‘re photos took by me... \[UPLOADING\]
 - Technology! But sometimes I don't understand how it work...
 - Create(imagine) lots of fun and playful anything
 
@@ -33,20 +34,27 @@ What? You don't know what those ACG,MC... mean?
 ### 🏫 Educational EXP
 
 (Partial)
-- 南宁市第二十九中学 Nanning No.29 Middle School
-  - 初中部 Junior Part
+- Nanning No.29 Middle School
+    <img align="right" height="120" src="https://github.com/Lukoning/Lukoning/blob/main/N29MS.png"/>
+  - Junior Part
   - 2021/9 —— 2024/7
 
-- 南宁市第十三中学 Nanning No.13 Middle School
-  - 高中部 Senior Part
+- Nanning No.13 Middle School
+  - Senior Part
   - 2024/9 —— ?
 
 ### 💬 Social Accounts
 
 (May can't visit)
 
-![Static Badge](https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-NetEase%20Cloud%20Music-red?logo=neteasecloudmusic&logoColor=red&labelColor=FFF&link=https%3A%2F%2Fmusic.163.com%2Fuser%3Fid%3D1674431999)
-![Static Badge](https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-bilibili-blue?logo=bilibili&logoColor=blue&labelColor=FFF&link=https%3A%2F%2Fspace.bilibili.com%2F1922780115)
+<a href="https://space.bilibili.com/1922780115">
+    <img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-bilibili-blue?logo=bilibili&logoColor=blue&labelColor=FFF" />
+</a>
+<br />
+<a href="https://music.163.com/user?id=1674431999">
+    <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-NetEase%20Cloud%20Music-red?logo=neteasecloudmusic&logoColor=red&labelColor=FFF" />
+</a>
+
 <!--
 **Lukoning/Lukoning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
