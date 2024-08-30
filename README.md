@@ -10,7 +10,7 @@ I'm a student.
 
 As of the last update of this README, I was still a juvenile in China.
 
-# 🏫 Educational EXP
+### 🏫 Educational EXP
 
 (Partial)
 - 南宁市第二十九中学 Nanning No.29 Middle School
