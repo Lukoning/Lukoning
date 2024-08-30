@@ -2,10 +2,13 @@ I'm a student.
 
 As of the last update of this README, I was still a juvenile in China
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lukoning&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Lukoning&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=Lukoning&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=Lukoning&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukoning&theme=transparent&hide_border=true&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Lukoning&theme=transparent&hide_border=true&layout=donut)
+
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=Lukoning&show_icons=true&theme=dark&layout=donut#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs?username=Lukoning&show_icons=true&theme=default&layout=donut#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!--
 **Lukoning/Lukoning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
