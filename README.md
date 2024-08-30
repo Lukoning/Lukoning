@@ -26,7 +26,8 @@ As of the last update of this README, I was still a juvenile in China. (age<18)
 ### 💬 Social Accounts
 
 (May can't visit)
- - 
+ - Netease Cloud Music (NCM)
+   - ->https://music.163.com/user?id=1674431999
 <!--
 **Lukoning/Lukoning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
