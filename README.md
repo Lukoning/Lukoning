@@ -11,12 +11,24 @@
 广西老表之人类幼崽🍼还没熟呢别催了
 
 I'm a student from Guangxi Zhuang Autonomous Region
+
 As of the last update of this README, I was still a juvenile in China. (age<18)
 
 ### ❤️ Hobby
 
- - MUSIC!
-Music are really good, aren't they?
+- MUSIC! I often listen to music on NCM. Music are really good, aren't they?
+- ACG! "Yama no Susume" IS MY FAVOURITE, YYDS
+
+  \* And my GitHub name comes from the MC name of it
+- TRAFFIC! Do you know there are countless public transport combinations to get home?
+- Technology! But sometimes I don't understand how it work...
+- Create(imagine) lots of fun and playful anything
+
+What? You don't know what those ACG,MC... mean?
+- NCM -> Netease Cloud Music
+- ACG -> Anime, Comic, Game
+- YYDS -> YongYuanDeShen ("the best"?)
+- MC -> Main Character
 
 ### 🏫 Educational EXP
 
@@ -32,8 +44,9 @@ Music are really good, aren't they?
 ### 💬 Social Accounts
 
 (May can't visit)
- - 网易云音乐 NCM(Netease Cloud Music) ->https://music.163.com/user?id=1674431999
- - 哔哩哔哩 bilibili ->https://space.bilibili.com/1922780115
+
+![Static Badge](https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-NetEase%20Cloud%20Music-red?logo=neteasecloudmusic&logoColor=red&labelColor=FFF&link=https%3A%2F%2Fmusic.163.com%2Fuser%3Fid%3D1674431999)
+![Static Badge](https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-bilibili-blue?logo=bilibili&logoColor=blue&labelColor=FFF&link=https%3A%2F%2Fspace.bilibili.com%2F1922780115)
 <!--
 **Lukoning/Lukoning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
