@@ -6,11 +6,17 @@
 
 # 🤔 About Me
 
+### 💥 Bio
+
 广西老表之人类幼崽🍼还没熟呢别催了
 
 I'm a student from Guangxi Zhuang Autonomous Region
-
 As of the last update of this README, I was still a juvenile in China. (age<18)
+
+### ❤️ Hobby
+
+ - MUSIC!
+Music are really good, aren't they?
 
 ### 🏫 Educational EXP
 
@@ -26,8 +32,8 @@ As of the last update of this README, I was still a juvenile in China. (age<18)
 ### 💬 Social Accounts
 
 (May can't visit)
- - Netease Cloud Music (NCM)
-   - ->https://music.163.com/user?id=1674431999
+ - 网易云音乐 NCM(Netease Cloud Music) ->https://music.163.com/user?id=1674431999
+ - 哔哩哔哩 bilibili ->https://space.bilibili.com/1922780115
 <!--
 **Lukoning/Lukoning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
