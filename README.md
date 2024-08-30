@@ -6,6 +6,8 @@
 
 # 🤔 About Me
 
+广西老表之人类幼崽🍼还没熟呢别催了
+
 I'm a student from Guangxi Zhuang Autonomous Region
 
 As of the last update of this README, I was still a juvenile in China. (age<18)
