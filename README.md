@@ -8,7 +8,7 @@
 
 I'm a student from Guangxi Zhuang Autonomous Region
 
-As of the last update of this README, I was still a juvenile in China.
+As of the last update of this README, I was still a juvenile in China. (age<18)
 
 ### 🏫 Educational EXP
 
