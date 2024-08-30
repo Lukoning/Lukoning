@@ -2,11 +2,11 @@ I'm a student.
 
 As of the last update of this README, I was still a juvenile in China
 
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=Lukoning&show_icons=true&theme=dark&border_radius=12&hide_border=true&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs?username=Lukoning&show_icons=true&theme=default&border_radius=12&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=Lukoning&show_icons=true&theme=dark&border_radius=12&bg_color=000&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs?username=Lukoning&show_icons=true&theme=default&border_radius=12&bg_color=000&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=Lukoning&show_icons=true&theme=dark&border_radius=12&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=Lukoning&show_icons=true&theme=default&border_radius=12#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=Lukoning&show_icons=true&theme=dark&border_radius=12&bg_color=000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=Lukoning&show_icons=true&theme=default&border_radius=12&bg_color=000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!--
 **Lukoning/Lukoning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
