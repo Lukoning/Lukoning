@@ -35,7 +35,7 @@ What? You don't know what those ACG,MC... mean?
 
 (Partial)
 - Nanning No.29 Middle School
-    <img align="right" height="120" src="https://github.com/Lukoning/Lukoning/blob/main/N29MS.png"/>
+    <img align="right" height="120" src="https://github.com/user-attachments/assets/d0f97ffe-9b15-4ee9-9eef-1590717fa26f"/>
   - Junior Part
   - 2021/9 —— 2024/7
 
