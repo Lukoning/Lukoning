@@ -44,7 +44,7 @@ What? You don't know what those ACG,MC... mean?
 
 - Nanning No.13 Middle School
   - East Campus for Senior Department
-  - 2024/9 —— 2027/6
+  - 2024/9 —— about 2027
   - shit school logo
 
 ### 💬 Social Accounts
