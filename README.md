@@ -34,15 +34,18 @@ What? You don't know what those ACG,MC... mean?
 ### 🏫 Educational EXP
 
 (Partial)
+
+\*Middle School = High School, in China
+
 - Nanning No.29 Middle School
-  <img align="right" height="120" src="https://github.com/user-attachments/assets/d0f97ffe-9b15-4ee9-9eef-1590717fa26f"/>
-  - Junior Part 初中部
+  <img align="right" height="90" src="https://github.com/user-attachments/assets/d0f97ffe-9b15-4ee9-9eef-1590717fa26f"/>
+  - Junior Grades
   - 2021/9 —— 2024/7
 
 - Nanning No.13 Middle School
-  - Senior Part 高中部
-  - 2024/9 —— ?
-  - i dont want to put the shit logo here
+  - East Campus for Senior Department
+  - 2024/9 —— 2027/6
+  - shit school logo
 
 ### 💬 Social Accounts
 
