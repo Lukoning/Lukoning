@@ -59,9 +59,11 @@ What? You don't know what those ACG,MC... mean?
     <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-NetEase%20Cloud%20Music-red?logo=neteasecloudmusic&logoColor=D12&labelColor=FEE" />
 </a>
 
-Contact me on Tencent QQ <a href="https://im.qq.com"> official site-> </a>
+Contact me on Tencent QQ
 
-Search my number
+<a href="https://im.qq.com">official site of QQ-> </a>
+
+Search my number:
 
 ![Static Badge](https://img.shields.io/badge/QQ-2194673824-blue?logo=tencentqq&logoColor=06C&labelColor=EEF)
 
