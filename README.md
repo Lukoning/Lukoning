@@ -16,20 +16,7 @@ As of the last update of this README, I was still a juvenile (age<18)
 
 ### ❤️ Hobby
 
-- 🎵 MUSIC! I often listen to music on NCM. Music are really good, aren't they?
-- 🎏 ACG! 🗻"Yama no Susume" IS MY FAVOURITE, YYDS
-
-  \* And my GitHub name comes from the 👧MC name of it
-- 🚞 TRAFFIC! Do you know there are countless public transport combinations to get home?
-- 📷 PHOTO! These‘re photos took by me... \[Oh no, it said "The file is too large and cannot be uploaded"\]
-- 🌐 Technology! But sometimes I don't understand how it work...
 - 🥰 Create(imagine) lots of fun and playful anything
-
-What? You don't know what those ACG,MC... mean?
-- NCM -> Netease Cloud Music, a music&social platfrom
-- ACG -> 🎞️Anime, 📚Comic, 🎮Game(extension of the first two)
-- YYDS -> YongYuanDeShen 永远的神 ("the best"?)
-- MC -> Main Character (or Protagonist)
 
 ### 🏫 Educational EXP
 
