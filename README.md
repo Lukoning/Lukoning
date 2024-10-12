@@ -35,9 +35,9 @@ As of the last update of this README, I was still a juvenile (age<18)
   - 2021/9 —— 2024/7
 
 - Nanning No.13 Middle School
+  <img align="right" height="90" src="https://github.com/user-attachments/assets/78122a8c-b711-46d9-94e8-0dcdc62524ad"/>
   - East Campus for Senior Department
   - 2024/9 —— about 2027
-  - shit school logo
 
 ### 💬 Social Accounts
 
