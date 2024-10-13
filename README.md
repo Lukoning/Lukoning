@@ -1,4 +1,4 @@
-# Hey there
+# Hello there
 
 (: Copyleft 2024 Lukoning. All rights reversed :)
 
