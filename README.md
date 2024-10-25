@@ -1,4 +1,4 @@
-# Hello there
+# Hi there
 
 (: Copyleft 2024 Lukoning. All rights reversed :)
 
@@ -55,9 +55,9 @@ Contact me on Tencent QQ
 
 <a href="https://im.qq.com">official site of QQ-> </a>
 
-Search my number:
+Search my QID:
 
-![Static Badge](https://img.shields.io/badge/QQ-2194673824-blue?logo=tencentqq&logoColor=06C&labelColor=EEF)
+![Static Badge](https://img.shields.io/badge/QQ-Lukoning08-blue?logo=tencentqq&logoColor=06C&labelColor=EEF)
 
 <!--
 **Lukoning/Lukoning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
