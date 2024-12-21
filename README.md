@@ -12,7 +12,7 @@
 
 ### 💥 Bio
 
-I'm a student from Nanning, the capital of G.Z.A.R (Guangxi)
+Anyway, I'm a robot from Nanning, the capital of G.Z.A.R (Guangxi)
 
 If you don't know where is Nanning, Google is good for you :)
 
