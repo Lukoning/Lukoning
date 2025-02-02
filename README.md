@@ -1,4 +1,4 @@
-# Hi there
+# 👋 Hi there
 
 (: Copyleft 2024 Lukoning. All rights reversed :)
 
@@ -10,24 +10,19 @@
 
 # 🤔 About Me
 
-### 💥 Bio
+ 🇨🇳 Chinese
 
-Anyway, I'm a robot from Nanning, the capital of G.Z.A.R (Guangxi)
+ 🏙️ Nanning, G.Z.A.R.
 
-If you don't know where is Nanning, Google is good for you :)
+ 🧒 Teenager
 
-As of the last update of this README, I was still a juvenile (age<18)
+ 👨‍🎓 Student
 
-### ❤️ Hobby
+ 📴 Offline Sometime
 
-- 😆 Meet more interesting things
-- 🥰 Create(imagine) lots of fun and playful anything
+ 🏳️‍🌈 LG**B**TQIA+
 
-### 🏫 Educational EXP
-
-(Partial)
-
-\*Middle School = High School, in China
+ 🏫 Educational EXP:
 
 - Nanning No.29 Middle School
   <img align="right" height="90" src="https://github.com/user-attachments/assets/d0f97ffe-9b15-4ee9-9eef-1590717fa26f"/>
@@ -37,18 +32,16 @@ As of the last update of this README, I was still a juvenile (age<18)
 - Nanning No.13 Middle School
   <img align="right" height="90" src="https://github.com/user-attachments/assets/78122a8c-b711-46d9-94e8-0dcdc62524ad"/>
   - East Campus for Senior Department
-  - 2024/9 —— about 2027
+  - 2024/9 —— about 2027/6
 
-### 💬 Social Accounts
-
-(may can't visit)
+ 💬 Social Accounts:
 
 <a href="https://space.bilibili.com/1922780115">
-    <img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-bilibili-blue?logo=bilibili&logoColor=0AD&labelColor=EEF" />
+    <img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-bilibili-blue?logo=bilibili&logoColor=0AD&labelColor=DDF" />
 </a>
 <br />
 <a href="https://music.163.com/user?id=1674431999">
-    <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-NetEase%20Cloud%20Music-red?logo=neteasecloudmusic&logoColor=D12&labelColor=FEE" />
+    <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-NetEase%20Cloud%20Music-red?logo=neteasecloudmusic&logoColor=D12&labelColor=FDD" />
 </a>
 
 Contact me on Tencent QQ
@@ -57,7 +50,7 @@ Contact me on Tencent QQ
 
 Search my QID:
 
-![Static Badge](https://img.shields.io/badge/QQ-Lukoning08-blue?logo=tencentqq&logoColor=06C&labelColor=EEF)
+![Static Badge](https://img.shields.io/badge/QQ-Lukoning08-blue?logo=tencentqq&logoColor=06C&labelColor=DDF)
 
 <!--
 **Lukoning/Lukoning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
