@@ -14,7 +14,7 @@
 
  🏙️ Nanning, G.Z.A.R.
 
- 🧒 Teenager
+ 🎂 2008/11
 
  👨‍🎓 Student
 
