@@ -12,27 +12,40 @@
 
  🇨🇳 Chinese
 
- 🏙️ Nanning, G.Z.A.R.
+ 🏙️ Nánníng, G.Z.A.Region
 
  🎂 2008/11
 
- 👨‍🎓 Student
+ 👨‍🎓 student who live on campus 6 days a week
 
- 📴 Offline Sometime
+ 📴 offline on campus
 
- 🏳️‍🌈 LG**B**TQIA+
+ 🏳️‍🌈 LG***B***TQIA+
 
  🏫 Educational EXP:
+```
+locale = zh_cn;
+Middle School == High School; //true
+```
+- Lǎngxī Primary School
+  - 2015/9 —— 2021/6
 
-- Nanning No.29 Middle School
-  <img align="right" height="90" src="https://github.com/user-attachments/assets/d0f97ffe-9b15-4ee9-9eef-1590717fa26f"/>
-  - Junior Grades
-  - 2021/9 —— 2024/7
+- Nánníng No.29 Middle School
+  <img align="right" height="120" src="https://github.com/Lukoning/Lukoning/raw/refs/heads/main/N29MS.webp"/>
+  - Junior Grades (that will be extinct by 2025/6)
+  - 2021/9 —— 2024/6
 
-- Nanning No.13 Middle School
-  <img align="right" height="90" src="https://github.com/user-attachments/assets/78122a8c-b711-46d9-94e8-0dcdc62524ad"/>
-  - East Campus for Senior Department
-  - 2024/9 —— about 2027/6
+- East Campus of Nánníng No.13 Middle School
+  - Senior Department
+  - 2024/9 —— ???
+
+- Wǔxiàng Campus of Nánníng No.13 Middle School
+  <img align="right" height="60" src="https://github.com/Lukoning/Lukoning/raw/refs/heads/main/N13MS.webp"/>
+  - Senior Department
+  - ??? —— 2027/6
+
+- College?
+  - ???
 
  💬 Social Accounts:
 
