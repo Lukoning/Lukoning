@@ -12,7 +12,7 @@
 
  🇨🇳 Chinese
 
- 🏙️ Nánníng, G.Z.A.Region
+ 🏙️ Nánníng, G.Z.A.R.
 
  🎂 2008/11
 
