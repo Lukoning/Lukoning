@@ -1,6 +1,8 @@
 # 👋 Hi there
 
-(: Copyleft 2024 Lukoning. All rights reversed :)
+相信会有一天，与他一起牵手，登上我们的山，欣赏旭日东升，照耀云山云海。
+
+向山进发 ヤマノススメ
 
 [![Anurag's GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=Lukoning&theme=dark&border_radius=12&card_width=500&bg_color=0000&show_icons=true&include_all_commits=true&rank_icon=percentile&border_color=FFF2#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=Lukoning&theme=default&border_radius=12&card_width=500&bg_color=0000&show_icons=true&include_all_commits=true&rank_icon=percentile#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
