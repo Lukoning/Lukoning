@@ -16,7 +16,7 @@
 # 👋 Hi there
 
 since 2025/3/9
-[![Visit Count](https://count.getloli.com/@LukoningGitHubProfile?name=LukoningGitHubProfile&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)]
+![Visit Count](https://count.getloli.com/@LukoningGitHubProfile?name=LukoningGitHubProfile&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 [![Anurag's GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=Lukoning&theme=dark&border_radius=12&card_width=500&bg_color=0000&show_icons=true&include_all_commits=true&rank_icon=percentile&border_color=FFF2#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=Lukoning&theme=default&border_radius=12&card_width=500&bg_color=0000&show_icons=true&include_all_commits=true&rank_icon=percentile#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
