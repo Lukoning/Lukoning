@@ -38,13 +38,13 @@ Middle School == High School; //true
   - 2021/9 —— 2024/6
 
 - East Campus of Nánníng No.13 Middle School
-  - Senior Department
-  - 2024/9 —— ???
+  - Old Senior School
+  - 2024/9 —— 2026/6
 
 - Wǔxiàng Campus of Nánníng No.13 Middle School
   <img align="right" height="60" src="https://github.com/Lukoning/Lukoning/raw/refs/heads/main/N13MS.webp"/>
-  - Senior Department
-  - ??? —— 2027/6
+  - New Senior School
+  - 2026/9 —— 2027/6
 
 - College?
   - ???
