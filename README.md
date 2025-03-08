@@ -80,6 +80,7 @@ Search my QID:
 
 ![Static Badge](https://img.shields.io/badge/QQ-Lukoning08-blue?logo=tencentqq&logoColor=06C&labelColor=DDF)
 
+OR, just send your email to `lukoning08@qq.com`
 <!--
 **Lukoning/Lukoning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
