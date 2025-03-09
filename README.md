@@ -8,7 +8,6 @@
 
 也去感受你的温暖
 
-
 向山进发，向你进发
 
 ヤマノススメ、キミニススメ
@@ -37,6 +36,8 @@ Your visit:
  👨‍🎓 student who live on campus 6 days a week
 
  📴 offline on campus
+
+ 🟢 MBTI: INFP
 
  🏳️‍🌈 LG***B***TQIA+
 
@@ -75,12 +76,9 @@ Middle School == High School; //true
     <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-NetEase%20Cloud%20Music-red?logo=neteasecloudmusic&logoColor=D12&labelColor=FDD" />
 </a>
 
-Contact me on Tencent QQ
-
-<a href="https://im.qq.com">official site of QQ-> </a>
+Contact me on Tencent QQ / <a href="https://im.qq.com">official site of QQ-> </a>
 
 Search my QID:
-
 ![Static Badge](https://img.shields.io/badge/QQ-Lukoning08-blue?logo=tencentqq&logoColor=06C&labelColor=DDF)
 
 OR, just send your email to `lukoning08@qq.com`
