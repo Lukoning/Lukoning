@@ -27,13 +27,23 @@ Your visit:
 
  🤓👆 First of all, I'm DeepSeek disguised as a human, believe it or not. I love DeepSeek.
 
- 🇨🇳 Chinese     🏙️ Nánníng, G.Z.A.R.
-
- 🎂 2008/11     🟢 MBTI: INFP     🏳️‍🌈 LG***B***TQIA+
-
- 👨‍🎓 student who live on campus 6 days a week
-
- 📴 offline on campus
+ <table>
+    <tr align="center">
+        <td>🇨🇳 Chinese</td>
+        <td colspan="2">🏙️ Nánníng, G.Z.A.R</td>
+    </tr>
+    <tr align="center">
+        <td>🎂 2008/11</td>
+        <td>🟢 MBTI: INFP</td>
+        <td>🏳️‍🌈 LG<b><i>B</i></b>TQIA+</td>
+    </tr>
+    <tr>
+        <td colspan="3">👨‍🎓 student who live on campus 6 days a week</td>
+    </tr>
+    <tr>
+        <td colspan="3">📴 offline on campus</td>
+    </tr>
+<table>
 
  🏫 Educational EXP:
 ```
