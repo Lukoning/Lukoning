@@ -79,6 +79,7 @@ Middle School == High School; //true
 <a href="https://music.163.com/user?id=1674431999">
     <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-NetEase%20Cloud%20Music-red?logo=neteasecloudmusic&logoColor=D12&labelColor=FDD" />
 </a>
+<a href="https://github.com/Lukoning/Lukoning/blob/main/cantPlayCloudMusic.md">Oh no I can't listen to the music</a>
 
 Contact me on Tencent QQ / <a href="https://im.qq.com">official site of QQ-> </a>
 
