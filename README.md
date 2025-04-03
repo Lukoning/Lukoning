@@ -81,7 +81,7 @@ Middle School == High School; //true
 </a>
 <a href="https://github.com/Lukoning/Lukoning/blob/main/cantPlayCloudMusic.md">Oh no I can't listen to the music</a>
 
-Contact me on Tencent QQ / <a href="https://im.qq.com">official site of QQ-> </a>
+Contact me on Tencent QQ, an UE4-Inside instant messaging software / <a href="https://im.qq.com">official site of QQ-> </a>
 
 Search my QID:
 ![Static Badge](https://img.shields.io/badge/QQ-Lukoning08-blue?logo=tencentqq&logoColor=06C&labelColor=DDF)
