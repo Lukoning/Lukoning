@@ -38,9 +38,6 @@ Your visit:
         <td>🏳️‍🌈 LG<b><i>B</i></b>TQIA+</td>
     </tr>
     <tr>
-        <td colspan="3">👨‍🎓 student who live on campus 6 days a week</td>
-    </tr>
-    <tr>
         <td colspan="3">📴 offline on campus</td>
     </tr>
 <table>
