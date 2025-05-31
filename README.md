@@ -1,16 +1,32 @@
-相信会有一天，与你一起牵手
-
-走上我们的路，登上我们的山
-
-欣赏旭日东升，照耀云山云海
-
-去感受太阳的温暖
-
-也去感受你的温暖
-
-向山进发，向你进发
-
-ヤマノススメ、キミニススメ
+ <p>
+<br/>相信会有一天，与你一起牵手
+<br/>走上我们的路，登上我们的山
+<br/>欣赏旭日东升，照耀云山云海
+<br/>去感受太阳的温暖
+<br/>也去感受你的温暖
+<br/>向山进发，向你进发
+<br/>ヤマノススメ、キミニススメ
+ </p>
+<details><summary>More</summary>
+ <p>
+     <br/>Some long for longevity, before fading to dust
+     <br/>Some long for eternal sleep, and eulogy chanted by stars
+     <br/>Some forsake longevity, then fading to dust
+     <br/>Some fall for eternal sleep, their eulogies turn into gleaming stars
+     <br/>——《恋与深空》
+     <br/>
+     <br/>繋いだ手と手を 離さないで
+     <br/>お揃いの夢 消さないで
+     <br/>色違い どっちもいい色だよ
+     <br/>Best friend!!
+     <br/>「何時も二人で作戦会議」「何時も二人で一点突破」
+     <br/>繋ぎなおす手にSay "I'm home!"
+     <br/>転びそうなら 支えてあげる
+     <br/>瘡蓋は ほっといてあげる
+     <br/>片っぽずつ翼 寄せ合って 飛ぼう
+     <br/>——《色違いの翼》
+ </p>
+</details>
 
 # 👋 Hi there
 Your visit:
@@ -42,6 +58,15 @@ Your visit:
     </tr>
 <table>
 
+<details><summary>Tag</summary>
+ <p>
+     #二次元(ACG - Anime, "Comic"(actually Manga), Game)
+  <br/> #百合豚(YuriTrash) #腐向(Boy's Love) #日常番(Slice-of-Life Anime)
+  <br/> #向山进发(Encouragement of Climb) #孤独摇滚(Bocchi the Rock!) #别当哥哥了!(Onimai) #前辈是男孩子(Senpai Is an Otokonoko) #夜晚的水母不会游泳(Jellyfish Can't Swim in the Night) #小刻的画图写话(Kay's Daily Doodles) #天使降临到我身边(WATATEN!)
+  <br/> #原神(Genshin Impact) #HOYO-MiX #OPUS: 龙脉常歌(OPUS: Echo of Starsong) #LittleBusters!  #KudWafter #言叶关系(The Expression Amrilato)  #蔚蓝档案(Blue Archive) #恋与深空(Love and Deepspace) #都市: 天际线(City: Skylines) #喵斯快跑(MushDush)
+ </p>
+</details>
+
  🏫 Educational EXP:
 ```
 locale = zh_cn;
@@ -70,20 +95,18 @@ Middle School == High School; //true
  💬 Social Accounts:
 
 <a href="https://space.bilibili.com/1922780115">
-    <img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-bilibili-blue?logo=bilibili&logoColor=0AD&labelColor=DDF" />
+    <img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-bilibili-blue?logo=bilibili&logoColor=0AD&labelColor=EEF" />
 </a>
 <br />
 <a href="https://music.163.com/user?id=1674431999">
-    <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-NetEase%20Cloud%20Music-red?logo=neteasecloudmusic&logoColor=D12&labelColor=FDD" />
+    <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-NetEase%20Cloud%20Music-red?logo=neteasecloudmusic&logoColor=D12&labelColor=FEE" />
 </a>
-<a href="https://github.com/Lukoning/Lukoning/blob/main/cantPlayCloudMusic.md">Oh no I can't listen to the music</a>
 
 Contact me on Tencent QQ, an UE4-Inside instant messaging software / <a href="https://im.qq.com">official site of QQ-> </a>
 
-Search my QID:
-![Static Badge](https://img.shields.io/badge/QQ-Lukoning08-blue?logo=tencentqq&logoColor=06C&labelColor=DDF)
+Search my QID: ![Static Badge](https://img.shields.io/badge/QQ-Lukoning08-blue?logo=qq&logoColor=06C&labelColor=EEF)
 
-OR, just send your email to `lukoning08@qq.com`
+or just send your email to `lukoning08@qq.com`
 <!--
 **Lukoning/Lukoning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
