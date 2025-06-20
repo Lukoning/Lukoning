@@ -63,7 +63,7 @@ Your visit:
      #二次元(ACG - Anime, "Comic"(actually Manga), Game)
   <br/> #百合豚(YuriTrash) #腐向(Boy's Love) #日常番(Slice-of-Life Anime)
   <br/> #向山进发(Encouragement of Climb) #孤独摇滚(Bocchi the Rock!) #别当哥哥了!(Onimai) #前辈是男孩子(Senpai Is an Otokonoko) #夜晚的水母不会游泳(Jellyfish Can't Swim in the Night) #小刻的画图写话(Kay's Daily Doodles) #天使降临到我身边(WATATEN!)
-  <br/> #原神(Genshin Impact) #HOYO-MiX #OPUS: 龙脉常歌(OPUS: Echo of Starsong) #LittleBusters!  #KudWafter #言叶关系(The Expression Amrilato)  #蔚蓝档案(Blue Archive) #恋与深空(Love and Deepspace) #都市: 天际线(City: Skylines) #喵斯快跑(MushDush)
+  <br/> #原神(Genshin Impact) #HOYO-MiX #OPUS: 龙脉常歌(OPUS: Echo of Starsong) #LittleBusters!  #KudWafter #言叶关系(The Expression Amrilato)  #蔚蓝档案(Blue Archive) #恋与深空(Love and Deepspace) #都市: 天际线(City: Skylines) #喵斯快跑(Muse Dash)
  </p>
 </details>
 
