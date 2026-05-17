@@ -19,7 +19,10 @@ Visitor count since 2025-03-09:
 
 ### 🤔 About
 
- <table>
+<table>
+    <tr>
+        <td colspan="3"><em><del>😺 I'm a catboy student meow~</del></em></td>
+    </tr>
     <tr align="center">
         <td>🇨🇳 Chinese</td>
         <td colspan="2">🏙️ Nánníng, G.Z.A.R.</td>
@@ -38,8 +41,7 @@ Visitor count since 2025-03-09:
 </table>
 
 <details><summary> 💕 Interests</summary>
- <p>
-      ✨ Art-Style: #二次元ACG(NM) - Anime, "Comics"(actually Manga), anime/manga-style Games, (light Novel, ACG-style Music)
+ <p> ✨ Art-Style: #二次元ACG(NM) - Anime, "Comics"(actually Manga), anime/manga-style Games, (light Novel, ACG-style Music)
   <br/><br/> ✳️ Theme: #百合(Yuri, GL, Girl's Love) #蔷薇(BL, Boy's Love) #日常番(Slice-of-Life Anime) #有深度的世界观(Profound World)
   <br/><br/> 🎞️ Anime: #向山进发(ヤマノススメ, Encouragement of Climb) #超时空辉夜姬!(超かぐや姫！, Cosmic Princess Kaguya!) #孤独摇滚(ぼっち・ざ・ろっく！) #别当欧尼酱了!(おにまい, Onimai) #前辈是男娘(先輩はおとこのこ) #夜晚的水母不会游泳(夜のクラゲは泳げない) #小刻的画图写话(Kay's Daily Doodles) #天使降临到我身边(わたてん, WATATEN!) #时光流逝，饭菜依旧美味/PA饭(日々は過ぎれど飯うまし)
   <br/><br/> 🎮 Games: #原神(Genshin Impact) #OPUS: 龙脉常歌(OPUS: Echo of Starsong) #LittleBusters!  #KudWafter #言叶关系(The Expression Amrilato)  #蔚蓝档案(Blue Archive) #恋与深空(Love and Deepspace) #都市: 天际线(City: Skylines) #喵斯快跑(Muse Dash) #开放空间(Over Field)
@@ -60,7 +62,7 @@ Visitor count since 2025-03-09:
     <img src="https://img.shields.io/badge/Steam-103B6A?logo=steam&logoColor=103B6A&labelColor=FFF" />
 </a>
 
- 📬 Email: <a href="mailto:lukoning08@qq.com">lukoning08@qq.com</a>
+ 📬 Email: [lukoning08@qq.com](mailto:lukoning08@qq.com)
  
 ### ❔ Non-social Link
 
